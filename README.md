@@ -33,11 +33,4 @@ This project is beginner-friendly and demonstrates *OOP concepts* such as classe
 - *Tools*: VS Code / IntelliJ IDEA
 - *Persistence*: In-memory (can be extended to JSON or DB)
 
----
 
-## ⚙ Setup & Run
-
-Make sure you have *Java installed*:
-
-```bash
-java -version
